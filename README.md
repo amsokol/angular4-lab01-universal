@@ -1,4 +1,4 @@
-# Angular4Lab01Universal
+# Angular 4 demo project: add server rendering (Universal) for Angular 4 application
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.0.
 
